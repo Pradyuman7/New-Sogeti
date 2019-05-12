@@ -1,5 +1,5 @@
 # New-Sogeti
-New website for Sogeti made between 1 to 3 am in HackDelft 2019
+New website for Sogeti made between 1 am to 3 am in HackDelft 2019
 
 <h1 align="center">
 	<img width="250" src="https://github.com/Pradyuman7/sogeti/blob/master/public/images/heart2.png" alt="Sogeti">
